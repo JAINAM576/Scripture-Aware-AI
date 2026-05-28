@@ -1,4 +1,4 @@
-# Christianity-AI-Assistant
+# Scripture-Aware-AI
 
 A high-performance, safe, denomination-aware, and scripture-grounded theological assistant. Built with a FastAPI backend and a modern React + Vite frontend, the assistant employs a dual-model LLM architecture via Groq and live Bible API grounding to provide deep theological insights while strictly preventing scripture hallucinations.
 
